@@ -1,0 +1,21 @@
+.box {
+  background-color: white;
+  border: none;
+  border-radius: 10%;
+  width: 5rem;
+  aspect-ratio: 1;
+  box-shadow: 0 0 8px #888;
+  font: bold 5em black;
+  line-height: 0px;
+  font-family: "Fredoka", sans-serif;
+  cursor: pointer;
+}
+.box:hover {
+  box-shadow: 0 0 17px #888;
+}
+.x {
+  color: var(--x-color);
+}
+.o {
+  color: var(--o-color);
+}

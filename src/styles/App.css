@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  --x-color: rgb(0, 136, 255);
+  --o-color: rgb(255, 4, 96);
+}
+
+body {
+  margin: 0;
+  font-family: "Fredoka", sans-serif;
+  background-color: #efefef;
+}

@@ -1,0 +1,25 @@
+.reset-btn {
+  /* width: 10rem; */
+  /* height: 2.6rem; */
+  /* display: flex; */
+  display: block;
+  margin: 2rem auto;
+  /* justify-content: center; */
+  /* align-items: center; */
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(255, 35, 35);
+  box-shadow: 0 0 8px #888;
+  font-weight: semi-bold;
+  padding: 0.5em 2em;
+  font-size: 1.5em;
+  color: white;
+  font-family: "Fredoka";
+  transition: all 0.1s ease-out;
+  cursor: pointer;
+}
+
+.reset-btn:hover {
+  box-shadow: 0 0 15px 6px #cf1010b7;
+  /* scale: 1.1; */
+}
